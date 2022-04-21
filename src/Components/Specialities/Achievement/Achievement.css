@@ -1,0 +1,48 @@
+.our-achievement {
+  padding-top: 70px;
+  padding: 60px 0 90px;
+  background-color: #49b0c1;
+  background-image: url(../../../Assets/Images/pattern.png);
+}
+.section {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  position: relative;
+}
+.single-achievement {
+  margin-top: 30px;
+  text-align: center;
+  padding: 0 50px;
+}
+.our-achievement .single-achievement i {
+  height: 70px;
+  width: 70px;
+  line-height: 70px;
+  text-align: center;
+  display: inline-block;
+  border-radius: 5px;
+  background-color: #fff;
+  font-size: 25px;
+  color: #49b0c1;
+  margin-bottom: 25px;
+}
+.single-achievement h3 {
+  font-size: 30px;
+  font-weight: 700;
+  display: block;
+  margin-bottom: 5px;
+  color: #fff;
+}
+.single-achievement p {
+  font-size: 14px;
+  color: #fff;
+  font-weight: 500;
+}
+span,
+a {
+  display: inline-block;
+  text-decoration: none;
+  transition: all 0.4s ease;
+  -webkit-transition: all 0.4s ease;
+  -moz-transition: all 0.4s ease;
+}

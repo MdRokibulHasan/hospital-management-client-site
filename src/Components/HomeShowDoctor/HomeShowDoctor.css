@@ -1,0 +1,25 @@
+.section {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  position: relative;
+}
+.section-title {
+  text-align: center;
+  margin-bottom: 80px;
+  padding: 0 300px;
+  /* position: relative; */
+  z-index: 5;
+}
+.section-title h2 {
+  font-size: 35px;
+  margin-bottom: 20px;
+  line-height: 48px;
+  text-transform: capitalize;
+  position: relative;
+  font-weight: 700;
+  padding-bottom: 20px;
+}
+.section-title p {
+  font-size: 14px;
+  line-height: 26px;
+}

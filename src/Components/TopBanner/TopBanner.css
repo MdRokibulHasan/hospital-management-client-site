@@ -1,0 +1,24 @@
+.banner-top {
+  background-color: #49b0c1;
+  height: cover;
+}
+
+.appointment-banner {
+  font-size: 14px;
+  font-weight: 500;
+  padding: 15px 30px;
+  background-color: #fff;
+  color: #081828;
+  border: none;
+  border-radius: 5px;
+  margin-right: 7px;
+}
+
+.hero-text h2 {
+  color: #fff;
+  font-size: 38px;
+  line-height: 55px;
+  font-weight: 700;
+  margin-bottom: 30px;
+  position: relative;
+}

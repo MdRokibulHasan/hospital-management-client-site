@@ -1,0 +1,35 @@
+.single-doctor {
+  margin-top: 30px;
+  overflow: hidden;
+  border-radius: 5px;
+}
+.single-doctor .image {
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+.single-doctor .image img {
+  width: 100%;
+}
+.single-doctor .content {
+  text-align: center;
+  background-color: #f9f9f9;
+  padding: 30px 20px;
+  border: 1px solid #eee;
+  border-top-color: transparent;
+}
+.single-doctor .content h5 {
+  font-weight: 400;
+  font-size: 13px;
+  display: block;
+  color: #88c250;
+  margin-bottom: -4px;
+}
+.single-doctor .content h3 a {
+  font-size: 16px;
+  font-weight: 600;
+  color: #49b0c1;
+}
+h3 {
+  font-size: 30px;
+}

@@ -1,0 +1,98 @@
+ [
+  {
+   
+    "name": "Dr.Felica Queen",
+    "Profession": "Cardiologist",
+    "Experience": 10,
+    "Phone": "01XXXXXXXX",
+    "Email": " medicapps@gmail.com",
+    "Address": "357 E. Whitemarsh Street Mchenry, IL 60050",
+    "img": "https://i.ibb.co/7X0jb9j/doctor1.jpg",
+    "Biography": "Professor Joshua Clark studied at Havard and qualified in medicine at Harvard Medical School in 1987. He then worked at various New York hospitals for the next five years, including Seattle, and Washington. He also held positions with the Medical Research Council, NY Heart Foundation and the Wellcome Trust.He worked as a thoracic and general surgeon in the north of NY and was appointed as a senior researcher in the Medical Research Institute of the New York Academy of Medical Sciences, with the main clinical focus of oesophageal surgery. He continued in this post until his move to the Seattle in the early 1992.",
+    "Education": "PHD Imperial College London School of Medicine in 2004"
+  },
+  {
+   
+    "name": "Dr.Alice Williams",
+    "Profession": "Neurologist",
+    "Experience": 7,
+    "Phone": "01XXXXXXXX",
+    "Email": " medicapps@gmail.com",
+    "Address": "357 E. Whitemarsh Street Mchenry, IL 60050",
+    "img": "https://i.ibb.co/xC0TfQz/doctor2.jpg",
+    "Biography": "Professor Joshua Clark studied at Havard and qualified in medicine at Harvard Medical School in 1987. He then worked at various New York hospitals for the next five years, including Seattle, and Washington. He also held positions with the Medical Research Council, NY Heart Foundation and the Wellcome Trust.He worked as a thoracic and general surgeon in the north of NY and was appointed as a senior researcher in the Medical Research Institute of the New York Academy of Medical Sciences, with the main clinical focus of oesophageal surgery. He continued in this post until his move to the Seattle in the early 1992.",
+    "Education": "PHD Imperial College London School of Medicine in 2004"
+  },
+  {
+  
+    "name": "Dr.Paul Flavius",
+    "Profession": "Physician Assistant",
+    "Experience": 7,
+    "Phone": "01XXXXXXXX",
+    "Email": " medicapps@gmail.com",
+    "Address": "357 E. Whitemarsh Street Mchenry, IL 60050",
+    "img": "https://i.ibb.co/2M3zQWq/doctor4.jpg",
+    "Biography": "Professor Joshua Clark studied at Havard and qualified in medicine at Harvard Medical School in 1987. He then worked at various New York hospitals for the next five years, including Seattle, and Washington. He also held positions with the Medical Research Council, NY Heart Foundation and the Wellcome Trust.He worked as a thoracic and general surgeon in the north of NY and was appointed as a senior researcher in the Medical Research Institute of the New York Academy of Medical Sciences, with the main clinical focus of oesophageal surgery. He continued in this post until his move to the Seattle in the early 1992.",
+    "Education": "PHD Imperial College London School of Medicine in 2004"
+  },
+  {
+ 
+    "name": "Dr.Michael Bean",
+    "Profession": "Physician Assistant",
+    "Experience": 6,
+    "Phone": "01XXXXXXXX",
+    "Email": " medicapps@gmail.com",
+    "Address": "357 E. Whitemarsh Street Mchenry, IL 60050",
+    "img": "https://i.ibb.co/dBmvCkt/doctor3.jpg",
+    "Biography": "Professor Joshua Clark studied at Havard and qualified in medicine at Harvard Medical School in 1987. He then worked at various New York hospitals for the next five years, including Seattle, and Washington. He also held positions with the Medical Research Council, NY Heart Foundation and the Wellcome Trust.He worked as a thoracic and general surgeon in the north of NY and was appointed as a senior researcher in the Medical Research Institute of the New York Academy of Medical Sciences, with the main clinical focus of oesophageal surgery. He continued in this post until his move to the Seattle in the early 1992.",
+    "Education": "PHD Imperial College London School of Medicine in 2004"
+  },
+  {
+   
+    "name": "Dr.Felica Queen",
+    "Profession": "Cardiologist",
+    "Experience": 10,
+    "Phone": "01XXXXXXXX",
+    "Email": " medicapps@gmail.com",
+    "Address": "357 E. Whitemarsh Street Mchenry, IL 60050",
+    "img": "https://i.ibb.co/7X0jb9j/doctor1.jpg",
+    "Biography": "Professor Joshua Clark studied at Havard and qualified in medicine at Harvard Medical School in 1987. He then worked at various New York hospitals for the next five years, including Seattle, and Washington. He also held positions with the Medical Research Council, NY Heart Foundation and the Wellcome Trust.He worked as a thoracic and general surgeon in the north of NY and was appointed as a senior researcher in the Medical Research Institute of the New York Academy of Medical Sciences, with the main clinical focus of oesophageal surgery. He continued in this post until his move to the Seattle in the early 1992.",
+    "Education": "PHD Imperial College London School of Medicine in 2004"
+  },
+  {
+  
+    "name": "Dr.Alice Williams",
+    "Profession": "Neurologist",
+    "Experience": 7,
+    "Phone": "01XXXXXXXX",
+    "Email": " medicapps@gmail.com",
+    "Address": "357 E. Whitemarsh Street Mchenry, IL 60050",
+    "img": "https://i.ibb.co/xC0TfQz/doctor2.jpg",
+    "Biography": "Professor Joshua Clark studied at Havard and qualified in medicine at Harvard Medical School in 1987. He then worked at various New York hospitals for the next five years, including Seattle, and Washington. He also held positions with the Medical Research Council, NY Heart Foundation and the Wellcome Trust.He worked as a thoracic and general surgeon in the north of NY and was appointed as a senior researcher in the Medical Research Institute of the New York Academy of Medical Sciences, with the main clinical focus of oesophageal surgery. He continued in this post until his move to the Seattle in the early 1992.",
+    "Education": "PHD Imperial College London School of Medicine in 2004"
+  },
+  {
+    
+    "name": "Dr.Paul Flavius",
+    "Profession": "Physician Assistant",
+    "Experience": 7,
+    "Phone": "01XXXXXXXX",
+    "Email": " medicapps@gmail.com",
+    "Address": "357 E. Whitemarsh Street Mchenry, IL 60050",
+    "img": "https://i.ibb.co/2M3zQWq/doctor4.jpg",
+    "Biography": "Professor Joshua Clark studied at Havard and qualified in medicine at Harvard Medical School in 1987. He then worked at various New York hospitals for the next five years, including Seattle, and Washington. He also held positions with the Medical Research Council, NY Heart Foundation and the Wellcome Trust.He worked as a thoracic and general surgeon in the north of NY and was appointed as a senior researcher in the Medical Research Institute of the New York Academy of Medical Sciences, with the main clinical focus of oesophageal surgery. He continued in this post until his move to the Seattle in the early 1992.",
+    "Education": "PHD Imperial College London School of Medicine in 2004"
+  },
+  {
+    
+    "name": "Dr.Michael Bean",
+    "Profession": "Physician Assistant",
+    "Experience": 6,
+    "Phone": "01XXXXXXXX",
+    "Email": " medicapps@gmail.com",
+    "Address": "357 E. Whitemarsh Street Mchenry, IL 60050",
+    "img": "https://i.ibb.co/dBmvCkt/doctor3.jpg",
+    "Biography": "Professor Joshua Clark studied at Havard and qualified in medicine at Harvard Medical School in 1987. He then worked at various New York hospitals for the next five years, including Seattle, and Washington. He also held positions with the Medical Research Council, NY Heart Foundation and the Wellcome Trust.He worked as a thoracic and general surgeon in the north of NY and was appointed as a senior researcher in the Medical Research Institute of the New York Academy of Medical Sciences, with the main clinical focus of oesophageal surgery. He continued in this post until his move to the Seattle in the early 1992.",
+    "Education": "PHD Imperial College London School of Medicine in 2004"
+  }
+]
