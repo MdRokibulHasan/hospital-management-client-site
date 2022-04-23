@@ -5,7 +5,7 @@ const HomeShowDoctor = () => {
   const [values, setValues] = useState([]);
 
   useEffect(() => {
-    fetch("http://localhost:5000/doctors")
+    fetch("https://vast-basin-66437.herokuapp.com/doctors")
       .then((res) => res.json())
       .then((data) => setValues(data));
     // console.log(values);

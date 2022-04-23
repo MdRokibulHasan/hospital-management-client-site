@@ -51,7 +51,7 @@ const SignUp = () => {
                 </div>
                 <div>
                   {!isLoading && (
-                    <button type="submit" class="btn-login my-2 mt-3">
+                    <button type="submit" class="btn-login my-2 mt-3 appointment-btn">
                       Register{" "}
                     </button>
                   )}

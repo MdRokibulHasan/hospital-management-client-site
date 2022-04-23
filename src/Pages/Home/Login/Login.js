@@ -9,11 +9,9 @@ const Login = () => {
   const { signInUsingGoogle, loginUser, isLoading } = useAuth();
   const location = useLocation();
   const history = useNavigate();
-  const redirect_uri = location.state?.from || "/home";
+  const redirect_uri = location.state?.from || "/";
   const handleGoogleLogin = () => {
-    signInUsingGoogle().then((result) => {
-      history(redirect_uri);
-    });
+    signInUsingGoogle(location, history);
   };
   const handelonchange = (e) => {
     const field = e.target.name;
@@ -74,7 +72,7 @@ const Login = () => {
                 </div>
                 <div>
                   {!isLoading && (
-                    <button type="submit" className="btn-login my-2 mt-3">
+                    <button type="submit" className="btn-login my-2 mt-3 appointment-btn">
                       Log In{" "}
                     </button>
                   )}

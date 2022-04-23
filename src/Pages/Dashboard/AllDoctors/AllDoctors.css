@@ -1,0 +1,17 @@
+.dashboard-doc{
+    position: relative;
+    
+}
+.delete-button{
+    position: absolute;
+    top:50%;
+    left:36%;
+    display:none;
+    border: 0;
+}
+.dashboard-doc:hover .delete-button{
+    display: block;
+   
+   
+}
+

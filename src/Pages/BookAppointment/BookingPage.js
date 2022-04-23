@@ -17,7 +17,7 @@ const BookingPage = () => {
       ...bookData,
     };
 
-    fetch("http://localhost:5000/appointment", {
+    fetch("https://vast-basin-66437.herokuapp.com/appointment", {
       method: "post",
       headers: { "content-type": "application/json" },
       body: JSON.stringify(info),
